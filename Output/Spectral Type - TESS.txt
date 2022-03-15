@@ -1,0 +1,19 @@
+Total number of exoplanets : 193
+ 
+ Spectral Type    Temperature (K)    Occurrence Rate (%)    # of Exoplanets    0 - 5    5 - 10    10 - 15    15 - 20    > 20
+---------------  -----------------  ---------------------  -----------------  -------  --------  ---------  ---------  ------
+       O              > 30000                 0                    0             0        0          0          0        0
+       B           10000 - 30000              0                    0             0        0          0          0        0
+       A           7500 - 10000             0.52                   1             0        0          1          0        0
+       F            6000 - 7500             13.47                 26             7        5          8          5        1
+       G            5200 - 6000             32.12                 62            38        8         13          2        1
+       K            3700 - 5200             30.05                 58            46        6          5          1        0
+       M            2400 - 3700             23.83                 46            43        2          1          0        0
+       L            1300 -2400                0                    0             0        0          0          0        0
+       T            700 - 1300                0                    0             0        0          0          0        0
+       Y               < 700                  0                    0             0        0          0          0        0
+ 
+ 
+* Data was taken on 24th February, 2022 from NASA Exoplanet Archive
+* Last 5 columns show the number of exoplanets in different radius ranges
+* Unit of radius is in Earth Radii
